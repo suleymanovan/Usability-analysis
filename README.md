@@ -11,3 +11,4 @@
 https://docs.google.com/spreadsheets/d/1UP-ZOiznnPcjk1MXSWKLU48ecWmUf961/edit?usp=sharing&ouid=110280753546987021986&rtpof=true&sd=true
 
 Чек-лист для проверки сайта перед запуском. В таблице описала основные процедуры, которые нужно провести до релиза — на этапе финального тестирования, чтобы сократить ошибки сайта до минимума.
+https://docs.google.com/spreadsheets/d/18Ojlv2iKRp-yHWuWFTx7A9OjvmGRuOlI8FsSjhL07CE/edit?usp=sharing
